@@ -1,2 +1,2 @@
-frontend to work npm run dev
+frontend to work npm run dev and
 backend node server.js
